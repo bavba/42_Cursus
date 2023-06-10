@@ -6,7 +6,7 @@ Welcome to my repository documenting my journey through the Cursus at 42 Barcelo
 
 This repository serves as an ever-evolving page that reflects my growth and learning over the next two years at 42 Barcelona. It showcases the projects I have worked on, the technologies I have utilized, and the methodology I followed throughout the Cursus.
 
-## **Projects:**
+## **Projects**
 
 **libft:** This project involves the creation of a custom library called "libft". The library contains a set of functions that replicate and extend the functionalities of common C library functions. The project aims to deepen understanding of these functions, their implementation, and their usage. The libft library will be a valuable resource for future C projects. The project includes specific requirements such as adhering to coding standards, managing memory properly, avoiding unexpected errors, and providing a Makefile for compilation. Various functions, including string manipulation and memory management, are implemented within this project.
 
@@ -16,7 +16,7 @@ Throughout the cursus, I utilized a variety of technologies and tools, including
 
 · Programming Languages: C. 
 
-## **Methodology:**
+## **Methodology**
 
 To ensure organization and version control, each project was developed in a separate branch and folder. Upon completion, these branches were merged with the main branch.
 
