@@ -15,6 +15,7 @@ This repository serves as an ever-evolving page that reflects my growth and lear
 Throughout the cursus, I utilized a variety of technologies and tools, including:
 
 · Programming Languages: C. 
+ >C Programmers never die. They are just cast into void. - Alan Perlis.
 
 ## **Methodology**
 
@@ -29,8 +30,3 @@ I would like to express my gratitude to the mentors, colleagues and staff at 42 
 For any inquiries related to the projects feel free to reach me at bavbagithub@gmail.com.
 
 **Note:** _The materials in this repository are solely intended for educational purposes and should not be used without authorization._
-
-
-
-
->C Programmers never die. They are just cast into void. - Alan Perlis.
